@@ -86,7 +86,7 @@ img.emoji {
                                                                         <li><a href="<?php echo site_url('Aztech/#about_us'); ?>" class="js-target-scroll">About Us</a></li>
 									<li><a href="<?php echo site_url('Aztech/#Expertise'); ?>" class="js-target-scroll">Expertise</a></li>
                                                                         <li><a href="<?php echo site_url('Aztech/#recent_work'); ?>" class="js-target-scroll">Portfolio</a></li>	
-                                                                        <li><a href="<?php echo site_url('Aztech/'); ?>#achievements" class="js-target-scroll">Achivements</a></li>
+                                                                        <li><a href="<?php echo site_url('Aztech/'); ?>#achievements" class="js-target-scroll">Achievement</a></li>
                                                                        <?php /* <li><a href="<?php //echo site_url('Aztech/'); ?>#ltest_product" class="js-target-scroll">Shop</a></li>	
                                                                         <li><a href="<?php //echo site_url(); ?>#latest_news" class="js-target-scroll">Blog</a></li>	
                                                                         */ ?><li><a href="<?php echo site_url(); ?>#get_touch" class="js-target-scroll">Contact</a></li>
